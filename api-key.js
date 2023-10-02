@@ -1,2 +1,2 @@
-//Paste the generated API Key here
-let apiKey = "";
+//API Key
+let apiKey = "8XfHZRAUmQnBcuOicA5HfAKOkrIfzJET";
